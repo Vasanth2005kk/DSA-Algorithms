@@ -44,3 +44,5 @@ Array = [1,2,3,4,5]
 | Find Index           | Get element position    | `arr.index(10)`          | O(n)            |
 
 
+
+<img width="753" height="449" alt="Screenshot from 2026-05-04 16-38-08" src="https://github.com/user-attachments/assets/ea8381d9-e737-43be-8fc6-e08340d2c789" />
