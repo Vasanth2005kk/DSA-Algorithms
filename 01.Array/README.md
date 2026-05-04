@@ -73,32 +73,32 @@ Each operation has its own Python file with step-by-step code and comments:
 
 | # | File | Operation | What it does |
 |---|------|-----------|--------------|
-| 01 | `01.Access.py` | Access | Get element by index |
-| 02 | `02Traversal.py` | Traversal | Visit every element |
-| 03 | `03.InsertEnd.py` | Insert End | Add element at end |
-| 04 | `04.InsertBeginning.py` | Insert Beginning | Add element at start |
-| 05 | `05.InsertMiddle.py` | Insert Middle | Add element at any position |
-| 06 | `06.DeleteEnd.py` | Delete End | Remove last element |
-| 07 | `07.DeleteBeginning.py` | Delete Beginning | Remove first element |
-| 08 | `08.DeleteMiddle.py` | Delete Middle | Remove element at position |
-| 09 | `09.Update.py` | Update | Change value at index |
-| 10 | `10.LinearSearch.py` | Linear Search | Search one by one |
-| 11 | `11.BinarySearch.py` | Binary Search | Fast search (sorted array) |
-| 12 | `12.Sort.py` | Sort | Arrange in order |
-| 13 | `13.Reverse.py` | Reverse | Flip the array |
-| 14 | `14.Copy.py` | Copy | Duplicate the array |
-| 15 | `15.Merge.py` | Merge | Combine two arrays |
-| 16 | `16.Slice.py` | Slice | Extract a part |
-| 17 | `17.FindLength.py` | Find Length | Count elements |
-| 18 | `18.CheckElementExists.py` | Check Exists | Is value in array? |
-| 19 | `19.FindMaximum.py` | Find Maximum | Largest value |
-| 20 | `20.FindMinimum.py` | Find Minimum | Smallest value |
-| 21 | `21.SumofElements.py` | Sum | Add all values |
-| 22 | `22.ClearArray.py` | Clear | Remove all elements |
-| 23 | `23.ResizeDynamicArray.py` | Resize | Expand array capacity |
-| 24 | `24.IteratewithIndex.py` | Iterate with Index | Loop with index + value |
-| 25 | `25.CountOccurrence.py` | Count Occurrence | How many times value appears |
-| 26 | `26.FindIndex.py` | Find Index | Get position of a value |
+| 01 | [01.Access.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/01.Access.py) | Access | Get element by index |
+| 02 | [02Traversal.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/02Traversal.py) | Traversal | Visit every element |
+| 03 | [03.InsertEnd.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/03.InsertEnd.py) | Insert End | Add element at end |
+| 04 | [04.InsertBeginning.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/04.InsertBeginning.py) | Insert Beginning | Add element at start |
+| 05 | [05.InsertMiddle.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/05.InsertMiddle.py) | Insert Middle | Add element at any position |
+| 06 | [06.DeleteEnd.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/06.DeleteEnd.py) | Delete End | Remove last element |
+| 07 | [07.DeleteBeginning.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/07.DeleteBeginning.py) | Delete Beginning | Remove first element |
+| 08 | [08.DeleteMiddle.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/08.DeleteMiddle.py) | Delete Middle | Remove element at position |
+| 09 | [09.Update.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/09.Update.py) | Update | Change value at index |
+| 10 | [10.LinearSearch.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/10.LinearSearch.py) | Linear Search | Search one by one |
+| 11 | [11.BinarySearch.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/11.BinarySearch.py) | Binary Search | Fast search (sorted array) |
+| 12 | [12.Sort.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/12.Sort.py) | Sort | Arrange in order |
+| 13 | [13.Reverse.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/13.Reverse.py) | Reverse | Flip the array |
+| 14 | [14.Copy.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/14.Copy.py) | Copy | Duplicate the array |
+| 15 | [15.Merge.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/15.Merge.py) | Merge | Combine two arrays |
+| 16 | [16.Slice.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/16.Slice.py) | Slice | Extract a part |
+| 17 | [17.FindLength.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/17.FindLength.py) | Find Length | Count elements |
+| 18 | [18.CheckElementExists.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/18.CheckElementExists.py) | Check Exists | Is value in array? |
+| 19 | [19.FindMaximum.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/19.FindMaximum.py) | Find Maximum | Largest value |
+| 20 | [20.FindMinimum.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/20.FindMinimum.py) | Find Minimum | Smallest value |
+| 21 | [21.SumofElements.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/21.SumofElements.py) | Sum | Add all values |
+| 22 | [22.ClearArray.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/22.ClearArray.py) | Clear | Remove all elements |
+| 23 | [23.ResizeDynamicArray.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/23.ResizeDynamicArray.py) | Resize | Expand array capacity |
+| 24 | [24.IteratewithIndex.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/24.IteratewithIndex.py) | Iterate with Index | Loop with index + value |
+| 25 | [25.CountOccurrence.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/25.CountOccurrence.py) | Count Occurrence | How many times value appears |
+| 26 | [26.FindIndex.py](https://github.com/Vasanth2005kk/DSA-Algorithms/blob/main/01.Array/26.FindIndex.py) | Find Index | Get position of a value |
 
 ---
 
