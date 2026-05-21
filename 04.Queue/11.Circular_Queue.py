@@ -4,7 +4,8 @@ class CircularQueue:
     def __init__(self, size):
         self.size = size
         self.queue = [None] * size
-        self.front = self.rear = -1
+        self.front = -1
+        self.rear = -1
         
     def is_empty(self):
         return self.front == -1
